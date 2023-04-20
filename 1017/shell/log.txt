@@ -1,0 +1,7 @@
+total 36
+drwxrwxr-x 2 yufc yufc  4096 Feb  5 14:18 .
+drwxrwxr-x 3 yufc yufc  4096 Feb  5 13:42 ..
+-rw-rw-r-- 1 yufc yufc     0 Feb  5 14:18 log.txt
+-rw-rw-r-- 1 yufc yufc    68 Feb  5 13:42 Makefile
+-rwxrwxr-x 1 yufc yufc 13544 Feb  5 14:18 myshell
+-rw-rw-r-- 1 yufc yufc  6533 Feb  5 14:18 myshell.c
